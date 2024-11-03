@@ -1,0 +1,12 @@
+train: ../images/train
+val: ../images/val
+
+# Number of classes
+nc: 4
+
+# Class names
+names:
+    0: "shelf"
+    1: "gondola end"
+    2: "freezer"
+    3: "other"

@@ -1,0 +1,4 @@
+shelf
+gondola end
+freezer
+other
