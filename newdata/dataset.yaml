@@ -1,0 +1,14 @@
+train: C:\Users\HonglinJin\Documents\Coles\Images_planogram\newdata\images\train
+val: C:\Users\HonglinJin\Documents\Coles\Images_planogram\newdata\images\val
+
+# Number of classes
+nc: 6
+
+# Class names
+names:
+    0: "shelf"
+    1: "aisle end"
+    2: "gondola end"
+    3: "5DR FROZEN FOOD"
+    4: "5 TIER DAIRY"
+    5: "PRODUCE"
