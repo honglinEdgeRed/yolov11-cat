@@ -1,0 +1,15 @@
+train: ../images/train
+val: ../images/val
+
+# Number of classes
+nc: 6
+
+# Class names
+names:
+    0: "Dairy"
+    1: "Freezer"
+    2: "Gondola End"
+    3: "Meat"
+    4: "Produce"
+    5: "Shelf"
+   

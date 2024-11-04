@@ -1,0 +1,33 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Dairy"
+    },
+    {
+      "id": 1,
+      "name": "Freezer"
+    },
+    {
+      "id": 2,
+      "name": "Gondola End"
+    },
+    {
+      "id": 3,
+      "name": "Meat"
+    },
+    {
+      "id": 4,
+      "name": "Produce"
+    },
+    {
+      "id": 5,
+      "name": "Shelf"
+    }
+  ],
+  "info": {
+    "year": 2024,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

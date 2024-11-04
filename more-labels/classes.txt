@@ -1,0 +1,6 @@
+Dairy
+Freezer
+Gondola End
+Meat
+Produce
+Shelf
