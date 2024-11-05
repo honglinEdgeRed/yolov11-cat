@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "COS Aisle"
+    },
+    {
+      "id": 1,
+      "name": "Freezer Section"
+    },
+    {
+      "id": 2,
+      "name": "Meat Section"
+    },
+    {
+      "id": 3,
+      "name": "Produce"
+    }
+  ],
+  "info": {
+    "year": 2024,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
